@@ -1,0 +1,14 @@
+
+test "ALturaCastillo" {
+
+	assert.equals(20, castillo.altura())
+
+}
+
+test "AlturaTipa" {
+	assert.equals(8, tipa.altura())
+}
+
+test "aurora"{
+	assert.that(aurora.estaViva())
+}
